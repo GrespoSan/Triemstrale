@@ -87,8 +87,8 @@ st.markdown(f"Trova azioni il cui **prezzo di chiusura del {current_quarter['lab
 # Default stock symbols (popular stocks)
 DEFAULT_SYMBOLS = [
     # Technology
-    "AAPL", "MSFT", "GOOGL", "AMZN", "TSLA", "META", "NVDA", "NFLX", 
-    "AMD", "INTC", "CRM", "ORCL", "ADBE", "PYPL", "IBM", "CSCO", "NOW", "SNOW",
+    "MSFT", "GOOGL", "AMZN", "TSLA", "META", "NVDA", "NFLX", 
+    "AMD", "INTC", "CRM", "ORCL", "ADBE", "PYPL", "IBM", "CSCO", "NOW", "SNOW", "AAPL",
     # Financial Services
     "V", "MA", "JPM", "BAC", "WFC", "GS", "MS", "C", "AXP",
     # Healthcare & Pharmaceuticals
