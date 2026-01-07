@@ -98,7 +98,7 @@ DEFAULT_SYMBOLS = [
     # Industrial & Energy
     "BA", "CAT", "GE", "MMM", "XOM", "CVX", "COP", "SLB", "EOG", "HAL",
     # Telecom & Media
-    "VZ", "T", "TMUS", "CMCSA", "CHTR", "PARA", "WBD", "FOXA",
+    "VZ", "T", "TMUS", "CMCSA", "CHTR", "PSKY", "WBD", "FOXA",
     # Real Estate & REITs
     "SPY", "QQQ", "IWM", "VTI", "REIT", "VNQ", "AMT", "CCI", "EQIX", "PLD",
     # Emerging & Growth
